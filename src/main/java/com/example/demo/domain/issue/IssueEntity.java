@@ -3,6 +3,7 @@ package com.example.demo.domain.issue;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
+//Issueモデル
 @AllArgsConstructor
 @Data
 public class IssueEntity {
