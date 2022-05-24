@@ -6,7 +6,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
-//データの制御
+//ビジネスロジック層
 @Service
 @RequiredArgsConstructor
 public class IssueService {

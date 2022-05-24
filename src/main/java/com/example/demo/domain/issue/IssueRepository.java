@@ -6,7 +6,7 @@ import org.apache.ibatis.annotations.Select;
 
 import java.util.List;
 
-//データベースにデータを管理
+//データアクセス層
 @Mapper
 public interface IssueRepository {
 

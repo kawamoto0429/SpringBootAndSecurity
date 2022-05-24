@@ -3,7 +3,7 @@ package com.example.demo.domain.auth;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
-//Userモデル
+//Userモデル（Entity）
 @Data
 @AllArgsConstructor
 public class User {

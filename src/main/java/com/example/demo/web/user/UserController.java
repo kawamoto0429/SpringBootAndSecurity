@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-//データの出力管理
+//プレゼンテーション層
 @Controller
 @RequestMapping("/users")
 @RequiredArgsConstructor

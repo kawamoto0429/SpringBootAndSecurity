@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-//データの制御
+//ビジネスロジック層
 @Service
 @RequiredArgsConstructor
 public class UserService {
